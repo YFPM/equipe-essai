@@ -1,6 +1,6 @@
 # Notre équipe
 
-Devise : à définir
+Devise : euro
 
 ## Yochann FAVRE PETIT MERMET
 
