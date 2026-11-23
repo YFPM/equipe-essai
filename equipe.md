@@ -1,6 +1,6 @@
 # Notre équipe
 
-Devise : euro
+Devise : on cherche d'abord.
 
 ## Yochann FAVRE PETIT MERMET
 
