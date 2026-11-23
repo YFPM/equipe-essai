@@ -8,4 +8,4 @@ Devise : à définir
 
 ## Muriel GOVINDARETTY
 
-à compléter
+Muriel : j'aime la logique !
