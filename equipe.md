@@ -1,6 +1,6 @@
 # Notre équipe
 
-Devise : euro
+Devise : un ticket, une branche
 
 ## Yochann FAVRE PETIT MERMET
 
