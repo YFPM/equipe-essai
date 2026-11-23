@@ -4,7 +4,7 @@ Devise : à définir
 
 ## Yochann FAVRE PETIT MERMET
 
-à compléter
+J'aime pouvoir transformer mes idées en projets concrets et utiles.
 
 ## Muriel GOVINDARETTY
 
