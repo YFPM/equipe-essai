@@ -1,6 +1,6 @@
 # Notre équipe
 
-Devise : on cherche d'abord.
+Devise : un ticket, une branche
 
 ## Yochann FAVRE PETIT MERMET
 
