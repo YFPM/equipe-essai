@@ -9,3 +9,9 @@ J'aime pouvoir transformer mes idées en projets concrets et utiles.
 ## Muriel GOVINDARETTY
 
 Muriel : j'aime la logique !
+
+## Nos valeurs
+
+- Respect
+- Entraide
+- Rigueur
